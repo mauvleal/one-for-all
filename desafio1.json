@@ -5,7 +5,7 @@
   "coluna_plano": "plano_id",
   "tabela_historico_de_reproducoes": "historico",
   "coluna_historico_de_reproducoes": "usuario_id",
-  "tabela_seguindo_artistas": "sequidas",
+  "tabela_seguindo_artistas": "seguidas",
   "coluna_seguindo_artistas": "usuario_id",
   "tabela_artista": "artistas",
   "coluna_artista": "artista_id",
